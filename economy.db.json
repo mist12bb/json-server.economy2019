@@ -1,0 +1,57 @@
+{
+  "enterings": [],
+
+
+
+  "expenses": [
+
+    {
+      "id": 4,
+      "amount": 30,
+      "info": "for the bus",
+      "date": "5-11-18"
+    },
+    {
+      "date": "2018-10-30",
+      "amount": "14",
+      "info": "food in the yseba",
+      "id": 5
+    },
+    {
+      "amount": "10",
+      "info": "for matria",
+      "date": "9-11-18",
+      "id": 6
+    },
+    {
+      "amount": 15,
+      "info": "youholdt chia",
+      "date": "10-11-2018",
+      "ack": "true",
+      "tags": "[\"youholdt\", \"slom\"]",
+      "dod": [
+        "one",
+        "tow"
+      ],
+      "id": 8
+    },
+    {
+      "date": "01-11-18",
+      "amount": "30",
+      "info": "expenses for a week(\ncandy exd.)\n",
+      "id": 10
+    },
+    {
+      "date": "2018-12-04",
+      "amount": "20",
+      "info": "moeny for buying some shit etc.",
+      "id": 11
+    }
+
+  ],
+  "loans": [],
+  "debts": [],
+  "dailys": [],
+  "saved": [],
+  "peoples": []
+}
