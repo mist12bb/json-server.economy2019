@@ -1,0 +1,519 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "new",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "expneses": [
+    {
+      "id": 4,
+      "amount": 30,
+      "info": "for the bus",
+      "date": "5-11-18"
+    },
+    {
+      "date": "2018-10-30",
+      "amount": "14",
+      "info": "food in the yseba",
+      "id": 5
+    },
+    {
+      "amount": "10",
+      "info": "for matria",
+      "date": "9-11-18",
+      "id": 6
+    },
+    {
+      "amount": 15,
+      "info": "youholdt chia",
+      "date": "10-11-2018",
+      "ack": "true",
+      "tags": "[\"youholdt\", \"slom\"]",
+      "dod": [
+        "one",
+        "tow"
+      ],
+      "id": 8
+    },
+    {
+      "date": "01-11-18",
+      "amount": "30",
+      "info": "expenses for a week(\ncandy exd.)\n",
+      "id": 10
+    },
+    {
+      "date": "2018-12-04",
+      "amount": "20",
+      "info": "moeny for buying some shit etc.",
+      "id": 11
+    }
+  ],
+  "debt": [
+    {
+      "id": 2,
+      "amount": 14,
+      "info": "debt to sira for the moeny that i took , returing date unknow",
+      "date": "01-9-18"
+    },
+    {
+      "amount": 10,
+      "to": "sira",
+      "date": "10-11-2018",
+      "info": "debt for sira to pay the debt to odel",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "amount": 20,
+      "to": "rachl",
+      "date": "10-11-2018",
+      "info": "debt from rachl to pay the debt to odel"
+    },
+    {
+      "date": "2018-11-16",
+      "amount": "55",
+      "info": "i loan 50 sackl's to chia and five more for the bat ",
+      "id": 8
+    },
+    {
+      "amount": 10,
+      "info": "i loans 20 sackls for Sara ",
+      "date": "2018-11-30T14:16:55.000Z",
+      "id": 10
+    },
+    {
+      "amount": 10,
+      "info": "i loans 20 sackls for Sara ",
+      "date": "2018-11-23T14:16:55.000Z",
+      "id": 11
+    },
+    {
+      "amount": 20,
+      "info": "i loan 20 from Sara",
+      "date": "Tue Nov 27 2018",
+      "id": 13
+    },
+    {
+      "amount": 21,
+      "info": "to piga",
+      "date": "Thu Nov 29 2018",
+      "id": 14
+    },
+    {
+      "amount": 6,
+      "info": "to tila",
+      "date": "Thu Nov 29 2018",
+      "id": 15
+    },
+    {
+      "amount": 200,
+      "info": "to odel",
+      "date": "Thu Nov 29 2018",
+      "id": 16
+    },
+    {
+      "amount": 20,
+      "info": "payed for rachl",
+      "date": "Tue Nov 13 2018",
+      "id": 20
+    },
+    {
+      "amount": 20,
+      "info": "payed for rachl",
+      "date": "Fri Nov 30 2018",
+      "id": 21
+    },
+    {
+      "date": "01-11-18",
+      "amount": "20",
+      "info": "loan from naftaly ",
+      "id": 22
+    },
+    {
+      "date": "2018-12-04",
+      "amount": "20",
+      "info": "debts from chia.",
+      "id": 23
+    },
+    {
+      "date": "2018-12-04",
+      "amount": "20",
+      "info": "debts to vinklar,\nbanana and oforsmon.",
+      "id": 24
+    }
+  ],
+  "entering": [
+    {
+      "id": 1,
+      "amount": 1000,
+      "info": "start point",
+      "date": "26-10-18"
+    },
+    {
+      "amount": "30",
+      "info": "from mom for the bus",
+      "date": "2018-10-22",
+      "id": 2
+    },
+    {
+      "amount": 20,
+      "info": "סבתה ציונה",
+      "date": "2018-11-30",
+      "id": 4
+    },
+    {
+      "amount": 10,
+      "info": "20 return",
+      "date": "Wed Nov 14 2018",
+      "id": 6
+    },
+    {
+      "date": "2018-12-03",
+      "amount": "11",
+      "info": "piga, 3 for the move \noby and 5 for m",
+      "id": 10
+    },
+    {
+      "date": "2018-12-03",
+      "amount": "20",
+      "info": "for going to the suprmarket",
+      "id": 11
+    },
+    {
+      "date": "2018-12-03",
+      "amount": "20",
+      "info": "for going to the suprmarket",
+      "id": 12
+    }
+  ],
+  "saved": [
+    {
+      "id": 1,
+      "amount": 45,
+      "info": "debt to odel",
+      "date": "28-10-18"
+    },
+    {
+      "id": 2,
+      "amount": 14,
+      "info": "debt to sira for the moeny that i took , returing date unknow",
+      "date": "01-9-18"
+    },
+    {
+      "amount": 10,
+      "to": "sira",
+      "date": "10-11-2018",
+      "info": "debt for sira to pay the debt to odel",
+      "id": 5
+    }
+  ],
+  "Recycle": [
+    {
+      "id": 3,
+      "amount": 20,
+      "to": "rachl",
+      "date": "10-11-2018",
+      "info": "debt from rachl to pay the debt to odel"
+    },
+    {
+      "row": {
+        "id": 3,
+        "amount": 20,
+        "to": "rachl",
+        "date": "10-11-2018",
+        "info": "debt from rachl to pay the debt to odel"
+      },
+      "id": 4
+    },
+    {
+      "row": {
+        "id": 3,
+        "amount": 20,
+        "to": "none",
+        "date": "10-11-2018",
+        "info": "debt from rachl to pay the debt to odel"
+      },
+      "id": 5
+    },
+    {
+      "row": {
+        "amount": "70",
+        "info": "from gragpa",
+        "date": "2018-10-26",
+        "id": 3
+      },
+      "id": 6
+    },
+    {
+      "row": {
+        "id": 1,
+        "amount": 1000,
+        "info": "start point",
+        "date": "26-10-18"
+      },
+      "id": 7
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "domo\n",
+        "id": 4
+      },
+      "id": 8
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "non",
+        "id": 5
+      },
+      "id": 9
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "non",
+        "id": 6
+      },
+      "id": 10
+    },
+    {
+      "row": {
+        "amount": "20",
+        "info": "from dad",
+        "id": 4
+      },
+      "id": 11
+    },
+    {
+      "row": {
+        "id": 1,
+        "amount": "20",
+        "info": "for drving to the wdding of natanl lavi",
+        "date": "21-10-18"
+      },
+      "id": 12
+    },
+    {
+      "row": {
+        "date": "01-11-18",
+        "amount": 10,
+        "info": "thre is no discripton",
+        "id": 6
+      },
+      "id": 13
+    },
+    {
+      "row": {
+        "date": "01-11-18",
+        "amount": 10,
+        "info": "non",
+        "id": 5
+      },
+      "id": 14
+    },
+    {
+      "row": {
+        "date": "01-11-18",
+        "amount": "14",
+        "info": "food in the yseba",
+        "id": 5
+      },
+      "id": 15
+    },
+    {
+      "row": {
+        "date": "01-11-18",
+        "amount": 10,
+        "info": "non",
+        "id": 5
+      },
+      "id": 16
+    },
+    {
+      "row": {
+        "id": 1,
+        "amount": 45,
+        "info": "debt to odel",
+        "date": "28-10-18"
+      },
+      "id": 17
+    },
+    {
+      "row": {
+        "amount": 15,
+        "to": "none",
+        "date": "02-11-2018",
+        "info": "debt from chia to pay the bebt to odel",
+        "id": 7
+      },
+      "id": 18
+    },
+    {
+      "id": 1,
+      "amount": 1000,
+      "info": "start point",
+      "date": "26-10-18"
+    },
+    {
+      "amount": "30",
+      "info": "from mom for the bus",
+      "date": "2018-10-22",
+      "id": 2
+    },
+    {
+      "amount": 10,
+      "info": "jj",
+      "date": "Fri Nov 30 2018",
+      "id": 19
+    },
+    {
+      "amount": 20,
+      "info": "payed for rachl",
+      "date": "Tue Nov 13 2018",
+      "id": 20
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "boom",
+        "date": "Fri Nov 30 2018",
+        "id": 9
+      },
+      "id": 21
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "no descripton",
+        "date": "2018-10-28T12:40:50.000Z",
+        "id": 8
+      },
+      "id": 22
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "no descripton",
+        "date": "2018-11-30T12:19:20.268Z",
+        "id": 7
+      },
+      "id": 23
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "jlkjljlk",
+        "date": "Tue Nov 27 2018",
+        "id": 5
+      },
+      "id": 24
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "no descripton",
+        "date": "2018/4/9",
+        "id": 3
+      },
+      "id": 25
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "jj",
+        "date": "Fri Nov 30 2018",
+        "id": 19
+      },
+      "id": 26
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "34",
+        "date": "Thu Nov 29 2018",
+        "id": 17
+      },
+      "id": 27
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "fff",
+        "id": 18
+      },
+      "id": 28
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "i loan 20 from Sara",
+        "date": "Tue Nov 27 2018",
+        "id": 12
+      },
+      "id": 29
+    },
+    {
+      "row": {
+        "date": "2018-11-21",
+        "amount": "10",
+        "info": "thre is no discripton",
+        "id": 9
+      },
+      "id": 30
+    },
+    {
+      "row": {
+        "date": "01-11-18",
+        "amount": "30",
+        "info": "expenses for a week(\ncandy exd.)\n",
+        "id": 23
+      },
+      "id": 31
+    },
+    {
+      "row": {
+        "amount": 15,
+        "info": "youholdt chia",
+        "date": "10-11-2018",
+        "ack": "true",
+        "tags": [
+          "one",
+          "tow"
+        ],
+        "dod": [
+          "one",
+          "tow"
+        ],
+        "id": 9
+      },
+      "id": 32
+    },
+    {
+      "row": {
+        "amount": 10,
+        "info": "no descripton",
+        "date": 1543328597174,
+        "id": 7
+      },
+      "id": 33
+    }
+  ]
+}
