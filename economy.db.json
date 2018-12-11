@@ -1,5 +1,46 @@
 {
-  "enterings": [],
+  "enterings": [
+   
+    {
+      "amount": 900,
+      "date": "2018-12-1",
+      "info": "start point",
+      "id": 13
+    },
+    {
+      "amount": 350,
+      "date": "2018-12-10",
+      "info": "the loan that i loand her",
+      "ram":"300 than 50 and 10 more",
+      "pep": "odel",
+      "id": 1
+    },
+    {
+      "amount": 100,
+      "date": "2018-12-7",
+      "info": "the loan that i loand hem + 30",
+      "ram":"the day that grampa came",
+      "pep": "dad",
+      "id": 2
+    },
+    {
+      "amount": 25,
+      "date": "2018-12-4",
+      "info": "for going to the soprmarket",
+      "ram":"i liared the mom the get more",
+      "pep": "mom",
+      "id": 5
+    },
+    {
+      "amount": 15,
+      "date": "2018-12-10",
+      "info": "for going to the soprmarket",
+      "ram":"the bus thing",
+      "pep": "mom",
+      "id": 6
+    }
+    
+  ],
 
 
 
@@ -46,12 +87,85 @@
       "amount": "20",
       "info": "moeny for buying some shit etc.",
       "id": 11
+    },
+    {
+      "date": "2018-12-09",
+      "amount": "20",
+      "info": "alerm colck, a box.",
+      "id": 12
+    },
+    {
+      "date": "2018-12-11",
+      "amount": "10",
+      "info": "sklon, candy etc.",
+      "id": 13
+    },
+    {
+      "date": "2018-12-11",
+      "amount": "10",
+      "info": "priut for viclar .",
+      "id": 14
+    }
+    
+    
+  ],
+  "loans": [
+    {
+      "amount": 10,
+      "date": "2018-12-11",
+      "info": "loand 10 sacals",
+      "ram":"to go for the sclon , 15",
+      "pep": "sara",
+      "ack": 0
+      
+    },
+    {
+      "amount": 350,
+      "date": "2018-12-1",
+      "info": "200 at start and 50 for food , later on 100 more",
+      "ram":"",
+      "pep": "odel",
+        "ack" : 1
+    },
+    {
+      "amount": 70,
+      "date": "2018-12-1",
+      "info": "70 for sigrs",
+      "ram":"i did that",
+      "pep": "dad",
+      "ack": 1
+      
     }
 
   ],
-  "loans": [],
-  "debts": [],
+  "debts": [
+    {
+      "amount": 20,
+      "date": "2018-12-11",
+      "info": "loand 30 sacals",
+      "ram":"to go for the sclon , 15",
+      "pep": "odel",
+      "ack": 0
+
+    },
+    {
+      "amount": 10,
+      "pep": "sira",
+      "date": "10-11-2018",
+      "info": "debt for sira to pay the debt to odel",
+      "id": 5,
+      "ack": 0
+    }
+
+  ],
   "dailys": [],
   "saved": [],
-  "peoples": []
+  "peoples": [
+      {"name": "sara", "actions": 1},
+      {"name": "odel", "actions": 1},
+      {"name": "dad", "actions": 1},
+      {"name": "mom", "actions": 1},
+      {"name": "vinkler", "actions": 1}
+  ],
+  "Recycle": []
 }
